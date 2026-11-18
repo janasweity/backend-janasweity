@@ -1,0 +1,11 @@
+{
+  "name": "task-management-starter",
+  "version": "1.0.0",
+  "description": "Simple in-memory task management starter (Node.js + ESM)",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT"
+}
